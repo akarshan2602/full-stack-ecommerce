@@ -1,7 +1,3 @@
-Here's the updated README with the new repository link:
-
----
-
 # Full Stack E-Commerce
 
 ## Project Overview
