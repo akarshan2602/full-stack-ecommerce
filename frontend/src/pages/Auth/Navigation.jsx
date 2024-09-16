@@ -4,7 +4,7 @@ import {AiOutlineHome, AiOutlineShopping, AiOutlineLogin,
 import {FaHeart} from 'react-icons/fa'
 import {Link} from 'react-router-dom'
 import { useNavigate } from "react-router-dom";
-import "./Navigation.css";
+import "./Navigation.css"
 
 const Navigation = () => {
     const [dropdownOpen, setDropdownOpen] = useState(false)
