@@ -21,7 +21,7 @@ router
   .get(authenticate, authorizeAdmin, getAllUsers);
 
 
-  // http://locahost:5000//api/users/auth
+  
 router.post("/auth", loginUser);
 router.post("/logout", logoutCurrentUser);
 
